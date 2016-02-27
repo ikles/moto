@@ -138,5 +138,22 @@ textarea
 #div_for_img {
 	border: 2px solid #cc0000;
 	width: 850px;
-	height: 160px;
+	/*height: 160px;*/
+}
+
+.new {
+	border: 1px solid #333;
+	background-color: #e4d7e8;
+	padding: 5px;
+}
+
+.new2 {
+background-color:#1F233C;
+color:#fff;
+}
+
+#formHide {
+	text-decoration: underline;
+	margin-bottom: 10px;
+	cursor: pointer;
 }
